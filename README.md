@@ -2,6 +2,9 @@
 
 Live2D 看板娘插件 (https://www.fghrsh.net/post/123.html) 上使用的后端 API
 
+## **原作者仓库**
+https://github.com/fghrsh/live2d_api
+
 ### 特性
 
 - 原生 PHP 开发，无需伪静态，开箱即用
